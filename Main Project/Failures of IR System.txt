@@ -1,0 +1,56 @@
+1) they fly at high velocity vs. they fly at low pressure
+A) they fly at high velocity
+
+Top five document IDs :
+193
+82
+315
+1157
+459
+
+B) they fly at low pressure
+
+Top five document IDs :
+315
+919
+238
+712
+792
+
+2) aircrafts have high speed vs. aircrafts have high velocity
+A) aircrafts have high speed
+
+Top five document IDs :
+156
+114
+792
+82
+52
+
+B) aircrafts have high velocity
+
+Top five document IDs :
+193
+82
+315
+1157
+459
+
+3) When angle of attack is high, stall occurs vs. Due to loss of fuel or power, stall can occur
+A) When angle of attack is high, stall occurs
+
+Top five document IDs :
+589
+441
+1347
+576
+588
+
+B) Due to loss of fuel or power, stall can occur
+
+Top five document IDs :
+589
+441
+576
+588
+1195
